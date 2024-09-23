@@ -10,3 +10,5 @@ Este é um simples conversor de texto para código Morse, desenvolvido em Python
 ## Tecnologias Usadas
 
 - Python
+
+Para saber mais sobre código Morse, acesse: https://brasilescola.uol.com.br/geografia/codigo-morse.htm
